@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\1d86778d74d9ccb047950ff0f08c2854644c4ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf316130fa76e3549712cd6406b948ebfb4239a3">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_17824fa0e93c562eea6e87acd39db9a26a71bb0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1fab95ed971bcbde83d7e166f54a6335562e9872\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\3a53ee99f7a1caed074165a45f1e7c994a2294c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_aed20c95bc0bdd24ff8c7584ba6b255940795f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\a7ce72d276584e1e4339ad3fe74a1c7b4cd4ebd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_3df4b519b51f7a7271b0d4852cfc9e3215c035c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\51f2df8c89d1cbc7b037d9acc561b1eab8f0bbc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_b561beffb0ee0d1e02069d4c21aac6d9ff5a7ba6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.android\build-cache\1d86778d74d9ccb047950ff0f08c2854644c4ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf316130fa76e3549712cd6406b948ebfb4239a3">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17824fa0e93c562eea6e87acd39db9a26a71bb0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.android\build-cache\2f7c5174cd805dc8aa8ca2a4efba5eba51aba015\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a094c332ab227aec0c75cdb6b23482d29809fc6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\1e65d97ed52861040bcb63b822c2bf68d79f3216\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_ce26c63b2b74d692b8b5873d2f0678d327714dcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\2b1fd0b05faba9d7d2efb03c47acd887c2edb6ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_fbe72b9150255c1bd5deca04ffebaa1f934960d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\fab00f87a63d8227d894158e98a39fb753f243e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_914ea23b4f8f7a6e04fa27707e90839fe766be68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\75c90c4076aca099ca84563f5d20bf93b2bfe040\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_349cb575065ee812cb2c7433b0cdbca74d0cacf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\a40a11ecd8bffe8e928b1f47e37da03c7e233d42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_0e723e21cecdca87009876f98fa3caf0e383abb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.android\build-cache\d5dc30449c51bab012f4378908a291ef2c5cae3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bef2f511161d8d4d75538c3aa163fcd9c29f421b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\c50a3dad121c4a891efd9fec6220c1191810f91d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_20fa8794d2812d3549d171a6db575c751ad27970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\d5dc30449c51bab012f4378908a291ef2c5cae3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_bef2f511161d8d4d75538c3aa163fcd9c29f421b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.android\build-cache\02b74052cd8d9606f7761a24a4ffde98a980046e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b1eb0d0ab6bdb6e0adb9c0ea7131f380e8a4597\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1fab95ed971bcbde83d7e166f54a6335562e9872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\hasee\.android\build-cache\02b74052cd8d9606f7761a24a4ffde98a980046e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\classes_4b1eb0d0ab6bdb6e0adb9c0ea7131f380e8a4597.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hasee\.android\build-cache\2f7c5174cd805dc8aa8ca2a4efba5eba51aba015\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a094c332ab227aec0c75cdb6b23482d29809fc6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_d4f6d4634580cb8fe9d6f4fcec5c6670c75b796c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\amu\MyApplication\app\libs\AMap2DMap_5.2.0_AMapSearch_5.5.0_AMapLocation_3.6.1_20171107.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e15b2b9e656a96cf62f53c55bd96688572bc3d3f">
+        <dex dex="E:\amu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap2DMap_5.2.0_AMapSearch_5.5.0_AMapLocation_3.6.1_20171107_c65161c9e2ddbf3dc5e10ac94efe215794268718\classes.dex" />
+    </item>
+
+</items>
