@@ -44,10 +44,10 @@
 
         <meta-data
             android:name="com.dji.sdk.API_KEY"
-            android:value="b313e91e9334d3171607aec6" />
+            android:value="177ba65bd884e0508ee7346c" />
 
         <meta-data android:name="com.amap.api.v2.apikey"
-            android:value="dfa16c8d378173a2b4df801de98f2724">
+            android:value="3f3574395f61e370a33d2769543bd4ae">
         </meta-data>
         <activity
             android:name="dji.sdk.sdkmanager.DJIAoaControllerActivity"
