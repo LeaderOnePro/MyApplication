@@ -1,0 +1,1 @@
+include ':app', ':AMap2DMap_5.2.0_AMapSearch_5.5.0_AMapLocation_3.6.1_20171107'
